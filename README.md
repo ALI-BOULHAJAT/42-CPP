@@ -28,7 +28,7 @@
 
 > repetition and exceptions
 
-### Module 06 ([CPP_06](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_06) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module06) )
+## Module 06 ([CPP_06](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_06) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module06) )
 
 > static_cast, dynamic_cast, reintepretate_cast, const_cast
 
