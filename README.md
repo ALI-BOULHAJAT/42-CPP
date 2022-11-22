@@ -12,7 +12,7 @@
 
 > new and delete, Stack vs heap memory, Pointers, references, lifetime , scope, file streams
 
-### Module 02 ([CPP_02](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_02) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module02) )
+## Module 02 ([CPP_02](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_02) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module02) )
 
 > Ad-hoc polymorphism/function overload, operators overload, canonical classes, copy constructor
 
