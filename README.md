@@ -16,7 +16,7 @@
 
 > Ad-hoc polymorphism/function overload, operators overload, canonical classes, copy constructor
 
-### Module 03 ([CPP_03](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_03) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module03) )
+## Module 03 ([CPP_03](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_03) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module03) )
 
 > inheritance, access specifier, multiple inheritance, the diamond problem
 
