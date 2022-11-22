@@ -6,7 +6,7 @@
 
 ## Module 00 ([CPP_00](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_00) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module00) ) 
 
-> Namespace, Stream, Class & Instance, Member Attributes & Functions, non-member Attributes & Functions, This pointer, Initialization list, Static, Const, Getters and Setters, Class vs. Struct
+> Namespace, Stream, Class & Instance, Member Attributes & Functions, non-member Attributes & Functions, This Pointer, Initialization List, Const, Getters, Class Vs Struct
 
 ### Module 01 ([wiki](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_01) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module01) )
 
