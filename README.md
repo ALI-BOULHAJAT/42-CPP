@@ -32,7 +32,7 @@
 
 > static_cast, dynamic_cast, reintepretate_cast, const_cast
 
-### Module 07 ([CPP_07](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_07) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module07) )
+## Module 07 ([CPP_07](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_07) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module07) )
 
 > templates (function & class)
 
