@@ -36,6 +36,6 @@
 
 > templates (function & class)
 
-### Module 08 ([CPP_08](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_08) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module08) )
+## Module 08 ([CPP_08](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_08) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module08) )
 
 > STL containers and algorithms
