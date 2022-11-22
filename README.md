@@ -4,7 +4,7 @@
 
 ***This project contains 9 modules on the fundamentals of C++.***
 
-## Module 00 ([CPP_00](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_00)) 
+## Module 00 ([CPP_00](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_00) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module00) ) 
 
 > namespace, stdio stream, class & instance, member attributes & functions, non-member attributes & functions, this pointer, initialization list, static, const, accessor/getters, class vs. struct
 
