@@ -8,9 +8,9 @@
 
 > Namespace, Stream, Class & Instance, Member Attributes & Functions, non-member Attributes & Functions, This Pointer, Initialization List, Const, Getters, Class Vs Struct
 
-### Module 01 ([CPP_01](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_01) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module01) )
+## Module 01 ([CPP_01](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_01) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module01) )
 
-> new and delete, references, file streams, lifetime, scope
+> new and delete, Stack vs heap memory, Pointers, references, lifetime , scope, file streams
 
 ### Module 02 ([CPP_02](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_02) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module02) )
 
