@@ -20,7 +20,7 @@
 
 > inheritance, access specifier, multiple inheritance, the diamond problem
 
-### Module 04 ([CPP_04](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_04) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module04) )
+## Module 04 ([CPP_04](https://github.com/ALI-BOULHAJAT/42-CPP/tree/main/Cpp_Module_04) <-> [Wiki](https://github.com/ALI-BOULHAJAT/42-CPP/wiki/Module04) )
 
 > subtype polymorphism, abstract classes, interfaces, virtual keyword
 
