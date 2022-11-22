@@ -1,7 +1,7 @@
 # 42-CPP
 42 CPP piscine - fundamentals of C++
 
-[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/qingqingqingli/CPP)
+<h1 align="center"><img src="https://github.com/ALI-BOULHAJAT/readme_img/blob/master/cpp%20Basics.png"></h1>
 
 # CPP
 ***This project contains 9 modules on the fundamentals of C++.***
