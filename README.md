@@ -1,12 +1,10 @@
-# 42-CPP
-42 CPP piscine - fundamentals of C++
+# 42-CPP fundamentals of C++
 
 <h1 align="center"><img src="https://github.com/ALI-BOULHAJAT/readme_img/blob/master/cpp%20Basics.png"></h1>
 
-# CPP
 ***This project contains 9 modules on the fundamentals of C++.***
 
-### Module 00 ([wiki](https://github.com/qingqingqingli/CPP/wiki/Module00)) 
+## Module 00 ([CPP_00](https://github.com/qingqingqingli/CPP/wiki/Module00)) 
 
 > namespace, stdio stream, class & instance, member attributes & functions, non-member attributes & functions, this pointer, initialization list, static, const, accessor/getters, class vs. struct
 
